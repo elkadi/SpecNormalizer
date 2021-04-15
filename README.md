@@ -1,1 +1,1 @@
-# DDP
+This application normalize spectal data and allow you to visualize it using plotly letting you use the abilities of ploty including zooming to specific location and downloading the normalized spectra. The application has been developed as a project for the course developing data products (coursera) and the application is available at https://elkadi.shinyapps.io/SpecNormalizer/
